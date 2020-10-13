@@ -19,11 +19,3 @@ We are primarily using Visual Studio 2019 as our IDE of choice.
 We have also included launch configurations in Visual Studio Code, so you can run and debug the application.
 
 
-### Postman
-We have a Postman collection you can use to manually test the API here:
-https://bitbucket.endava.com/projects/XELERATOR/repos/xelerator_tokenization_tests/browse/Xelerator%20Tokenization%20-%20Token%20Owner%20API.postman_collection.json
-
-### Api Models Examples
-
-
-## FAQ
